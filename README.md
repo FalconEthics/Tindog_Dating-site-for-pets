@@ -14,7 +14,7 @@
     <img src="./images/logo.png" alt="Logo" width="150" height="80">
   </a>
 
-  <h3 align="center">Tindog/h3>
+  <h3 align="center">Tindog</h3>
 
   <p align="center">
     - Dating site for pet xD!
